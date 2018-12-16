@@ -4,7 +4,7 @@ import { MatSort, MatTableDataSource } from '@angular/material';
 import { MatSelectModule } from '@angular/material';
 import { MatButtonModule } from '@angular/material';
 import { MatButtonToggleModule } from '@angular/material';
-import { MatTabsModule, MatTabChangeEvent } from '@angular/material';
+import { MatTabChangeEvent } from '@angular/material';
 import { RouterModule, Routes } from '@angular/router';
 import {FormControl} from '@angular/forms';
 import {MatDialogModule} from '@angular/material/dialog';
